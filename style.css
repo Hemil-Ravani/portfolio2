@@ -1,0 +1,52 @@
+h1 {
+    padding-left: 20;
+    padding-right: 40px;
+    margin-top: 40px;
+    color: aquamarine;
+    font-family: times new roman;
+    font-size: 50px;
+
+
+}
+.header{
+    background-color: black;
+   
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: aqua;
+}
+.Grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;}
+    
+.site-description{
+    display:flex;
+    flex-direction: column;
+    justify-content: first baseline;
+
+
+}
+p,h2{
+    text-align: center;
+   
+
+}
+.Menu{
+    margin-right: 20px;
+}
+.Menu a{
+    margin-left: 50px;
+
+}
+
+a:link{
+    color: aliceblue;
+}
+
+a:visited{
+    color: lightblue;
+}
+
